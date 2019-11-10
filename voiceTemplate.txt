@@ -1,0 +1,8 @@
+<<
+  \new Voice = "melody" \absolute {
+% notes
+  }
+  \new Lyrics \lyricsto "melody" {
+% words
+  }
+>>
